@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**maicon3rollo/maicon3rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maicon Silva
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou desenvolvendo na linguagem javascrit
+ultilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo📫
+
+00001095826530sp@al.educacao.gov.br
+
+@maiconbs_02
